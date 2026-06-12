@@ -29,8 +29,11 @@
    </meiHead>
    <music>
       <performance>
-         <recording begin="00:00:00.00" end="00:00:00.00" betype="time" n="completeWork">
-            <avFile targettype="youtube" target="https://www.youtube.com/watch?v=_-ozK57r7UE"></avFile>        <clip begin="00:00:00.00" end="00:00:05.00" betype="time" n="m1" startid="#performance_m1"></clip>        <clip begin="00:00:05.00" end="00:00:10.00" betype="time" n="m2" startid="#performance_m2"></clip></recording></performance>
+         <recording begin="00:00:00.000" end="00:00:43.852" betype="time" n="completeWork">
+            <avFile targettype="youtube" target="https://youtu.be/FzMXplHCUKk"></avFile>
+            <clip begin="00:00:12.663" end="00:00:39.697" betype="time" n="m1" startid="#performance_m1"></clip>
+         </recording>
+      </performance>
       <body>
          <mdiv xml:id="m8vgium">
             <score xml:id="nib88yn">
