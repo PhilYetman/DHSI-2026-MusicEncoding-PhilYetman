@@ -5,7 +5,7 @@
    <meiHead xml:id="mh5nn95">
       <fileDesc xml:id="f1jt1p8r">
          <titleStmt xml:id="t14ij4wj">
-            <title>First Road of Osain</title>
+            <title>The First Section of Osain</title>
             <respStmt>
                <persName role="arranger">Phil Yetman</persName>
             </respStmt>
@@ -28,34 +28,31 @@
       </encodingDesc>
    </meiHead>
    <music>
+      <performance>
+         <recording begin="00:00:00.00" end="00:00:00.00" betype="time" n="completeWork">
+            <avFile targettype="youtube" target="https://www.youtube.com/watch?v=_-ozK57r7UE"></avFile>        <clip begin="00:00:00.00" end="00:00:05.00" betype="time" n="m1" startid="#performance_m1"></clip>        <clip begin="00:00:05.00" end="00:00:10.00" betype="time" n="m2" startid="#performance_m2"></clip></recording></performance>
       <body>
          <mdiv xml:id="m8vgium">
             <score xml:id="nib88yn">
-               <scoreDef xml:id="o14b3mox">
-                  <pgHead xml:id="s1yd6la3" func="first">
-                     <rend xml:id="q19rzese" valign="top">Osain</rend>
-                  </pgHead>
-                  <staffGrp xml:id="t1e460ht">
+               <scoreDef xml:id="o14b3mox" meter.count="6" meter.unit="8">
+                  <staffGrp xml:id="t1e460ht" symbol="bracket">
                      <staffDef xml:id="P1" n="1" lines="1" ppq="4">
                         <label xml:id="u1m4adl">Percussion 1 (Bongos)</label>
                         <labelAbbr xml:id="wxuhjja">P. 1 (Bon.)</labelAbbr>
                         <instrDef xml:id="y10aom4k" midi.channel="9" midi.instrnum="0" midi.volume="100%" />
                         <clef xml:id="h1a7nm7e" shape="perc" />
-                        <meterSig xml:id="j1twuzo4" count="6" unit="8" />
                      </staffDef>
                      <staffDef xml:id="P2" n="2" lines="1" ppq="4">
                         <label xml:id="o1p6bmii">Percussion 2 (Congas)</label>
                         <labelAbbr xml:id="q1vl82a8">P. 2 (Con.)</labelAbbr>
                         <instrDef xml:id="slog6bn" midi.channel="3" midi.instrnum="0" midi.volume="100%" />
                         <clef xml:id="b1wj12no" shape="perc" />
-                        <meterSig xml:id="d1kwvu4i" count="6" unit="8" />
                      </staffDef>
                      <staffDef xml:id="P3" n="3" lines="1" ppq="4">
                         <label xml:id="tmzqvas">Percussion 3 (Congas)</label>
                         <labelAbbr xml:id="vcr25md">P. 3 (Con.)</labelAbbr>
                         <instrDef xml:id="xjif7lg" midi.channel="4" midi.instrnum="0" midi.volume="100%" />
                         <clef xml:id="g1pbvu21" shape="perc" />
-                        <meterSig xml:id="i1mmtudx" count="6" unit="8" />
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -274,7 +271,7 @@
                         </staff>
                      </measure>
                   </section>
-                  <ending xml:id="zzc69ep" lendsym="angledown" n="1, 2, 3">
+                  <ending xml:id="zzc69ep" lendsym="angledown" n="1–3">
                      <measure xml:id="c1appc6h" right="rptend" n="6">
                         <staff xml:id="l7jz3gv" n="1">
                            <layer xml:id="m11ip33e" n="1">
