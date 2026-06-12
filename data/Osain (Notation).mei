@@ -163,7 +163,7 @@
                         <staff xml:id="u10ghe4k" n="2">
                            <layer xml:id="vfdzkfy" n="1">
                               <beam xml:id="w16yvl5v">
-                                 <note xml:id="x1k29l9s" dots="1" dur.ppq="3" dur="8" loc="-2" head.fill="solid" head.shape="rtriangle" stem.dir="down" pnum="62"/>
+                                 <note xml:id="x1k29l9s" dots="1" dur.ppq="3" dur="8" loc="-2" head.fill="solid" head.shape="+" stem.dir="down" pnum="62"/>
                                  <note xml:id="yetwri1" dots="1" dur.ppq="3" dur="8" loc="4" head.shape="x" stem.dir="down" pnum="60"/>
                               </beam>
                               <rest xml:id="z1852j4n" dots="1" dur.ppq="3" dur="8" />
@@ -179,7 +179,7 @@
                               </beam>
                               <rest xml:id="ojxjasr" dur.ppq="1" dur="16" />
                               <beam xml:id="p1kawwsa">
-                                 <note xml:id="q1mdr6jc" dur.ppq="1" dur="16" loc="-4" head.fill="solid" head.shape="rtriangle" stem.dir="up" pnum="64"/>
+                                 <note xml:id="q1mdr6jc" dur.ppq="1" dur="16" loc="-4" head.fill="solid" head.shape="+" stem.dir="up" pnum="64"/>
                                  <note xml:id="r1mec3ro" dur.ppq="2" dur="8" loc="2" head.shape="x" stem.dir="up" pnum="60"/>
                                  <note xml:id="s1gbzwxr" dur.ppq="2" dur="8" loc="2" head.shape="x" stem.dir="up" pnum="60"/>
                               </beam>
@@ -223,7 +223,7 @@
                               </beam>
                               <rest xml:id="i6irl2l" dur.ppq="1" dur="16" />
                               <beam xml:id="j1uqxv03">
-                                 <note xml:id="k1bw2yrq" dur.ppq="1" dur="16" loc="-4" head.fill="solid" head.shape="rtriangle" stem.dir="up" pnum="64"/>
+                                 <note xml:id="k1bw2yrq" dur.ppq="1" dur="16" loc="-4" head.fill="solid" head.shape="+" stem.dir="up" pnum="64"/>
                                  <note xml:id="l1xi4my5" dur.ppq="2" dur="8" loc="2" head.shape="x" stem.dir="up" pnum="60"/>
                                  <note xml:id="mqkrr0v" dur.ppq="2" dur="8" loc="2" head.shape="x" stem.dir="up" pnum="60"/>
                               </beam>
